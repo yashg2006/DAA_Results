@@ -1,0 +1,5 @@
+Method,RMSE,MAE,R2,Spearman,n_train,note
+Classical SVR,0.025949263531073134,0.013737010161255904,0.9480063145799181,0.9840131270511018,240,"3-fold LOEO, classical, 6 features, power-transform"
+QI-SVR (interference),0.02717246904275059,0.015550321511237634,0.9430425957799988,0.9820518831067355,240,"3-fold LOEO, 36 cos*sin features, quantum-inspired classical"
+Quantum Kernel SVM,0.12345470075392656,0.0753456175202933,0.025928421329658558,0.2721804511278195,30,"Fold-2 (30/20), proper adjoint ZZFeatMap fidelity kernel, lightning.qubit"
+Quantum Embedding SVR (hybrid),0.04217768022102717,0.02918461120002832,0.8668184185816206,0.9189404594467886,160,"Fold-0 (160/80), 18-dim PauliXYZ + 6-dim classical, lightning.qubit, Huang et al. 2021"

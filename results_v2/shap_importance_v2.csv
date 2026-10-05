@@ -1,0 +1,32 @@
+feature,mean_abs_shap
+GFR_gm2_Irrigation,0.4944366
+GFR_gm2_Drought,0.20611739
+GFP_%_Irrigation,0.1468787
+WUE_drought,0.121412985
+E_mmolm2s1_Drought,0.108453795
+GFP_%_Drought,0.05777495
+FIPAR_PROSAIL_gf_Irrigation,0.05014549
+Height_cm_Irrigation,0.047668483
+GFP_%_Terminal heat,0.038931116
+gs_molm2s1_Drought,0.034688212
+GFR_gm2_Terminal heat,0.028720116
+ALA_PROSAIL_gf_Irrigation,0.028070688
+FIPAR_PROSAIL_vg_Terminal heat,0.02700773
+Cab_PROSAIL_gf_Irrigation,0.023749415
+iWUE_Drought,0.02360416
+FIPAR_PROSAIL_vg_Drought,0.02122788
+gs_molm2s1_Irrigation,0.01905429
+Cigreen_vg_Terminal heat,0.018705575
+ALA_PROSAIL_gf_Terminal heat,0.01773971
+PhiGFR_irr,0.017727263
+PhiPS2_Irrigation,0.014463409
+ALA_PROSAIL_vg_Irrigation,0.013532523
+PhiPS2_Drought,0.0134138465
+Height_cm_Drought,0.012074363
+PhiGFR_drought,0.010364261
+Cab_PROSAIL_gf_Terminal heat,0.01035162
+E_mmolm2s1_Terminal heat,0.009508471
+R_Green_vg_Terminal heat,0.0076669767
+R_Blue_vg_Terminal heat,0.0060875923
+R_RedEdge_gf_Terminal heat,0.0034825392
+R_Blue_gf_Terminal heat,0.0029529945

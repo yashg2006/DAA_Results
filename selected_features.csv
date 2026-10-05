@@ -1,0 +1,32 @@
+feature
+ALA_PROSAIL_gf_Irrigation
+ALA_PROSAIL_gf_Terminal heat
+ALA_PROSAIL_vg_Irrigation
+Cab_PROSAIL_gf_Irrigation
+Cab_PROSAIL_gf_Terminal heat
+Cigreen_vg_Terminal heat
+E_mmolm2s1_Drought
+E_mmolm2s1_Terminal heat
+FIPAR_PROSAIL_gf_Irrigation
+FIPAR_PROSAIL_vg_Drought
+FIPAR_PROSAIL_vg_Terminal heat
+GFP_%_Drought
+GFP_%_Irrigation
+GFP_%_Terminal heat
+GFR_gm2_Drought
+GFR_gm2_Irrigation
+GFR_gm2_Terminal heat
+Height_cm_Drought
+Height_cm_Irrigation
+PhiGFR_drought
+PhiGFR_irr
+PhiPS2_Drought
+PhiPS2_Irrigation
+R_Blue_gf_Terminal heat
+R_Blue_vg_Terminal heat
+R_Green_vg_Terminal heat
+R_RedEdge_gf_Terminal heat
+WUE_drought
+gs_molm2s1_Drought
+gs_molm2s1_Irrigation
+iWUE_Drought
